@@ -1,0 +1,16 @@
+img{
+    height: 350px;
+    border: 15px;
+    border-style: dashed;
+}
+
+p{
+    text-align: right;
+    font-style: bold;
+    font-size: smaller;
+}
+
+body{
+    background-color:cadetblue;
+    font-family:fantasy;
+}
